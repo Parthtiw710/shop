@@ -268,7 +268,7 @@ export default function HeroStoryteller() {
             className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-700 ${stage === 'video' ? 'opacity-90' : 'opacity-0'}`}
           >
 
-            <source src="/public/video.mp4" type="video/mp4" />
+            <source src="/video.mp4" type="video/mp4" />
           </video>
 
           {/* Dark vignette so text stays readable over video */}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bridal-lehnga",
+    "name": "Bridal Lehnga",
+    "kicker": "Bridal Couture",
+    "price": "₹ 4500",
+    "description": "An ornate handwoven masterpiece crafted for grand celebrations. Embellished with heavy gold borders and handloom embroidery.",
+    "fabric": "Pure Heritage Silk & Brocade",
+    "weaving": "Traditional Banarasi Karwa",
+    "image": "/images/exclusive1.jpg"
+  },
+  {
+    "id": "festival-saree",
+    "name": "Festival Saree",
+    "kicker": "Festive Selection",
+    "price": "₹ 1500",
+    "description": "A vibrant and lightweight handloom saree designed for festive elegance and comfort, displaying gold zari highlights.",
+    "fabric": "Chanderi Silk Cotton Blend",
+    "weaving": "Handloom Weave",
+    "image": "/images/exclusive2.jpg"
+  },
+  {
+    "id": "handicrafted-saree",
+    "name": "Handicrafted Saree",
+    "kicker": "Artisan Craft",
+    "price": "₹ 1800",
+    "description": "A beautiful organic handicrafted saree featuring delicate border details and traditional patterns woven by local master weavers.",
+    "fabric": "Organic Handloom Cotton",
+    "weaving": "Extra Weft Jamdani Technique",
+    "image": "/images/exclusive3.png"
+  },
+  {
+    "id": "everyday-elegance",
+    "name": "Everyday Elegance",
+    "kicker": "Daily Luxury",
+    "price": "₹ 1000",
+    "description": "A soft, drapable everyday handloom saree that brings refined luxury and understated grace to your daily wear.",
+    "fabric": "Fine Linen Cotton",
+    "weaving": "Plain Handloom Weave",
+    "image": "/images/exclusive4.png"
+  }
+]
